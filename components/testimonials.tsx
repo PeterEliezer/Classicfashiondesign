@@ -8,7 +8,11 @@ const testimonials = [
     name: "Sophia Anderson",
     role: "Fashion Blogger",
     content:
-      "Classic Fashion Design has completely transformed my wardrobe. The quality and attention to detail in every piece is simply unmatched. I feel confident and elegant every time I wear their designs.",
+      "Classic Fashion Design is a creative fashion business based in Musanze, conveniently located along the road leading out of Musanze Gare (depot). The business specializes in designing and producing high-quality, stylish, and custom-made clothing that blends modern trends with timeless elegance.
+
+We cater to a diverse clientele, offering tailored outfits for both men and women, including casual wear, formal attire, and special occasion garments. At Classic Fashion Design, attention to detail, quality craftsmanship, and customer satisfaction are at the heart of everything we do.
+
+Our mission is to help individuals express their identity and confidence through fashion by delivering unique designs that reflect personal style.",
     rating: 5,
   },
   {
@@ -24,7 +28,11 @@ const testimonials = [
     name: "Isabella Martinez",
     role: "Art Director",
     content:
-      "The evening gown I purchased for a gala was absolutely stunning. I received countless compliments throughout the night. Classic Fashion Design truly understands the art of elegance.",
+      "The evening gown I purchased for a gala was absolutely stunning. I received countless compliments throughout the night. Classic Fashion Design is a creative fashion business based in Musanze, conveniently located along the road leading out of Musanze Gare (depot). The business specializes in designing and producing high-quality, stylish, and custom-made clothing that blends modern trends with timeless elegance.
+
+We cater to a diverse clientele, offering tailored outfits for both men and women, including casual wear, formal attire, and special occasion garments. At Classic Fashion Design, attention to detail, quality craftsmanship, and customer satisfaction are at the heart of everything we do.
+
+Our mission is to help individuals express their identity and confidence through fashion by delivering unique designs that reflect personal style.",
     rating: 5,
   },
 ]

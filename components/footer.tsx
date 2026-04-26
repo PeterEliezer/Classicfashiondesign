@@ -114,7 +114,7 @@ export default function Footer() {
             {/* CEO Section */}
             <div className="flex items-center gap-3 mt-2">
               <img
-                src="/images/ceo-emile-mashyengo.png"
+                src="/images/WhatsApp Image 2026-04-26 at 15.49.40.jpeg"
                 alt="CEO Emile Mashyengo"
                 className="w-12 h-12 rounded-full object-cover border-2 border-gold"
               />
@@ -180,9 +180,11 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-background/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-background/40 text-sm">
-            © {new Date().getFullYear()} Classic Fashion Design. All rights reserved.
-          </p>
-          <div className="flex gap-6">
+            © {new Date().getFullYear()} Classic Fashion Design is a creative fashion business based in Musanze, conveniently located along the road leading out of Musanze Gare (depot). The business specializes in designing and producing high-quality, stylish, and custom-made clothing that blends modern trends with timeless elegance.
+
+We cater to a diverse clientele, offering tailored outfits for both men and women, including casual wear, formal attire, and special occasion garments. At Classic Fashion Design, attention to detail, quality craftsmanship, and customer satisfaction are at the heart of everything we do.
+
+Our mission is to help individuals express their identity and confidence through fashion by delivering unique designs that reflect personal style."flex gap-6">
             <Link href="#" className="text-background/40 hover:text-gold text-sm transition-colors duration-300">
               Privacy Policy
             </Link>

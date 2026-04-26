@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/logo.jpeg"
+          src="/images/WhatsApp Image 2026-04-26 at 15.49.40 (1).jpeg"
           alt="Classic Fashion Design logo"
           fill
           className="object-cover object-center"
@@ -28,9 +28,11 @@ export default function Hero() {
             Luxury Fashion House
           </p>
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-light text-background mb-6 leading-tight text-balance">
-            Classic Fashion Design
-          </h1>
-          <p className="text-background/80 text-lg md:text-xl font-light max-w-lg mb-10 leading-relaxed">
+            Classic Fashion Design is a creative fashion business based in Musanze, conveniently located along the road leading out of Musanze Gare (depot). The business specializes in designing and producing high-quality, stylish, and custom-made clothing that blends modern trends with timeless elegance.
+
+We cater to a diverse clientele, offering tailored outfits for both men and women, including casual wear, formal attire, and special occasion garments. At Classic Fashion Design, attention to detail, quality craftsmanship, and customer satisfaction are at the heart of everything we do.
+
+Our mission is to help individuals express their identity and confidence through fashion by delivering unique designs that reflect personal style."text-background/80 text-lg md:text-xl font-light max-w-lg mb-10 leading-relaxed">
             Where timeless elegance meets modern sophistication. Discover our curated collection of premium fashion.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">

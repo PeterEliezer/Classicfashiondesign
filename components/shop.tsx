@@ -13,7 +13,7 @@ const products = [
     name: "Signature Blazer",
     category: "Women",
     price: 890,
-    image: "/images/women-outfit-1.jpg",
+    image: "/images/WhatsApp Image 2026-04-26 at 15.49.41 (2).jpeg",
     isNew: true,
   },
   {

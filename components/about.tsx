@@ -9,7 +9,7 @@ export default function About() {
           <div className="relative">
             <div className="relative aspect-[4/5] overflow-hidden">
               <Image
-                src="/images/about.jpeg"
+                src="/images/WhatsApp Image 2026-04-26 at 15.49.40.jpeg"
                 alt="Our Atelier"
                 fill
                 className="object-cover"
@@ -27,13 +27,11 @@ export default function About() {
             </h2>
             <div className="space-y-6 text-background/70 leading-relaxed">
               <p>
-                At Classic Fashion Design, we believe that true elegance transcends trends. Founded with a passion for 
-                timeless sophistication, our brand has been dedicated to creating pieces that make you feel confident, 
-                powerful, and undeniably stylish.
-              </p>
-              <p>
-                Every garment in our collection is crafted with meticulous attention to detail, using only the finest 
-                fabrics sourced from around the world. Our designs blend classic silhouettes with contemporary elements, 
+                At Classic Fashion Design is a creative fashion business based in Musanze, conveniently located along the road leading out of Musanze Gare (depot). The business specializes in designing and producing high-quality, stylish, and custom-made clothing that blends modern trends with timeless elegance.
+
+We cater to a diverse clientele, offering tailored outfits for both men and women, including casual wear, formal attire, and special occasion garments. At Classic Fashion Design, attention to detail, quality craftsmanship, and customer satisfaction are at the heart of everything we do.
+
+Our mission is to help individuals express their identity and confidence through fashion by delivering unique designs that reflect personal style.th contemporary elements, 
                 creating a unique aesthetic that speaks to the modern individual.
               </p>
               <p>

@@ -44,10 +44,10 @@ export default function Contact() {
                 <div>
                   <p className="text-sm text-background/60 mb-1 tracking-wider uppercase">Phone</p>
                   <a
-                    href="tel:+250784894913"
+                    href="tel:+250 784 894 913"
                     className="text-background hover:text-gold transition-colors duration-300"
                   >
-                    +250784 894 913
+                    +250 784 894 913
                   </a>
                 </div>
               </div>
@@ -84,7 +84,7 @@ export default function Contact() {
             {/* WhatsApp CTA */}
             <div className="mt-12">
               <a
-                href="https://wa.me/250784894913"
+                href="https://wa.me/+250 784 894 913"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-[#25D366] hover:bg-[#20BD5A] text-white px-6 py-4 transition-all duration-300 hover:translate-y-[-2px]"
@@ -126,7 +126,7 @@ export default function Contact() {
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                   required
                   className="bg-secondary border-0 py-6 px-4 focus:ring-gold"
-                  placeholder="john@example.com"
+                  placeholder="emilemashyengo65@gmail.com"
                 />
               </div>
               <div>

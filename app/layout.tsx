@@ -16,19 +16,11 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: 'Classic Fashion Design | Luxury Fashion & Elegance',
-  description: 'Discover timeless elegance with Classic Fashion Design. Premium fashion for men and women who appreciate sophistication, quality, and style.',
-  keywords: ['fashion', 'luxury', 'designer', 'clothing', 'elegant', 'style'],
-  generator: 'v0.app',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
+  title: 'Classic Fashion Design is a creative fashion business based in Musanze, conveniently located along the road leading out of Musanze Gare (depot). The business specializes in designing and producing high-quality, stylish, and custom-made clothing that blends modern trends with timeless elegance.
+
+We cater to a diverse clientele, offering tailored outfits for both men and women, including casual wear, formal attire, and special occasion garments. At Classic Fashion Design, attention to detail, quality craftsmanship, and customer satisfaction are at the heart of everything we do.
+
+Our mission is to help individuals express their identity and confidence through fashion by delivering unique designs that reflect personal style.: dark)',
       },
       {
         url: '/icon.svg',
